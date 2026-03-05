@@ -1,4 +1,5 @@
 # 🤖 MoroGPT
+<img width="1305" height="774" alt="Screenshot 2026-03-05 at 22 53 56" src="https://github.com/user-attachments/assets/1241b42b-665c-4999-acfe-9f324f20a6be" />
 
 Un asistent AI rapid, securizat și privat, care rulează local.
 
